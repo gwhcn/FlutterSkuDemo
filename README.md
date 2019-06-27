@@ -1,7 +1,5 @@
-# provider_sku
+# provider_sku_demo
 
-flutter淘宝sku
-效果图
 ![Alt text](https://github.com/415593725/flutter_sku/blob/master/images/sku.gif)
 
 ## Getting Started
